@@ -44,7 +44,7 @@ To Setup Your Code and Live Site (GitHub and GitHub Pages) first **sign in or cr
    
 
 ### Clone Your Fork to Your Computer
-*In other words, make a local **connected** copy of your github code*
+In other words, make a local **connected** copy of your github repository
 
 1. Open **GitHub Desktop**.
 2. Click **File → Clone Repository**.
